@@ -1,0 +1,34 @@
+@media only screen and (max-width: 1300px){
+   main{
+    height: fit-content;
+    flex-direction: column;
+   }
+   .section2{
+    margin-top: 350px;
+   }
+   .section4{
+    height: 850px;
+   }
+   .section6_cardwrapper{
+        margin-top: 50px;
+        justify-content: center;
+    }
+    .section6_div{
+        display: none;
+    }
+    .section6_ending_div{
+        margin-bottom: 30px;
+    }
+    .footer_main_div2 form{
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+    footer{
+        height: 630px;
+        gap: 0px;
+    }
+}
+@media only screen and (max-width: 780px){
+    
+}
